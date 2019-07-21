@@ -53,7 +53,6 @@ export const query = graphql`
         id
         frontmatter {
           date
-          description
           title
         }
         fields {
